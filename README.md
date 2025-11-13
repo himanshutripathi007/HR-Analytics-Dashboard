@@ -30,5 +30,5 @@ A complete HR dashboard built in Power BI to help leadership track key metrics l
 
 
 
-
+Author : Himanshu tripathi 
 
